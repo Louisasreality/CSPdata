@@ -7,7 +7,7 @@ id,Rank,Language,Speakers in millions,Percentage of world population,Language fa
 6,6.0,Portuguese,221.0,2.87,Indo-European,Romance
 7,7.0,Russian,154.0,2.0,Indo-European,Balto-Slavic
 8,8.0,Japanese,128.0,1.662,Japonic,Japanese
-9,9.0,Western Punjabi[10],92.7,1.204,Indo-European,Indo-Aryan
+9,9.0,Western Punjabi,92.7,1.204,Indo-European,Indo-Aryan
 10,10.0,Marathi,83.1,1.079,Indo-European,Indo-Aryan
 11,11.0,Telugu,82.0,1.065,Dravidian,South-Central
 12,12.0,Wu Chinese,81.4,1.057,Sino-Tibetan,Sinitic
@@ -38,7 +38,7 @@ id,Rank,Language,Speakers in millions,Percentage of world population,Language fa
 37,37.0,Odia,34.5,0.448,Indo-European,Indo-Aryan
 38,38.0,Maithili,33.9,0.44,Indo-European,Indo-Aryan
 39,39.0,Burmese,32.9,0.427,Sino-Tibetan,Lolo-Burmese
-40,40.0,Eastern Punjabi[10],32.6,0.423,Indo-European,Indo-Aryan
+40,40.0,Eastern Punjabi,32.6,0.423,Indo-European,Indo-Aryan
 41,41.0,Sunda,32.4,0.421,Austronesian,Malayo-Polynesian
 42,42.0,Sudanese Arabic,31.9,0.414,Afroasiatic,Semitic
 43,43.0,Algerian Arabic,29.4,0.382,Afroasiatic,Semitic
