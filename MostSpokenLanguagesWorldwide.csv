@@ -2,12 +2,12 @@ id,Rank,Language,Speakers in millions,Percentage of world population,Language fa
 1,1.0,Mandarin Chinese,918.0,11.922,Sino-Tibetan,Sinitic
 2,2.0,Spanish,480.0,5.994,Indo-European,Romance
 3,3.0,English,379.0,4.922,Indo-European,Germanic
-4,4.0,Hindi (Sanskritised Hindustani)[9],341.0,4.429,Indo-European,Indo-Aryan
+4,4.0,Hindi (Sanskritised Hindustani),341.0,4.429,Indo-European,Indo-Aryan
 5,5.0,Bengali,228.0,2.961,Indo-European,Indo-Aryan
 6,6.0,Portuguese,221.0,2.87,Indo-European,Romance
 7,7.0,Russian,154.0,2.0,Indo-European,Balto-Slavic
 8,8.0,Japanese,128.0,1.662,Japonic,Japanese
-9,9.0,Western Punjabi[10],92.7,1.204,Indo-European,Indo-Aryan
+9,9.0,Western Punjabi,92.7,1.204,Indo-European,Indo-Aryan
 10,10.0,Marathi,83.1,1.079,Indo-European,Indo-Aryan
 11,11.0,Telugu,82.0,1.065,Dravidian,South-Central
 12,12.0,Wu Chinese,81.4,1.057,Sino-Tibetan,Sinitic
@@ -18,7 +18,7 @@ id,Rank,Language,Speakers in millions,Percentage of world population,Language fa
 17,17.0,Vietnamese,76.0,0.987,Austroasiatic,Vietic
 18,18.0,Tamil,75.0,0.974,Dravidian,South
 19,19.0,Yue Chinese,73.1,0.949,Sino-Tibetan,Sinitic
-20,20.0,Urdu (Persianised Hindustani)[9],68.6,0.891,Indo-European,Indo-Aryan
+20,20.0,Urdu (Persianised Hindustani),68.6,0.891,Indo-European,Indo-Aryan
 21,21.0,Javanese,68.3,0.887,Austronesian,Malayo-Polynesian
 22,22.0,Italian,64.8,0.842,Indo-European,Romance
 23,23.0,Egyptian Arabic,64.6,0.839,Afroasiatic,Semitic
@@ -38,7 +38,7 @@ id,Rank,Language,Speakers in millions,Percentage of world population,Language fa
 37,37.0,Odia,34.5,0.448,Indo-European,Indo-Aryan
 38,38.0,Maithili,33.9,0.44,Indo-European,Indo-Aryan
 39,39.0,Burmese,32.9,0.427,Sino-Tibetan,Lolo-Burmese
-40,40.0,Eastern Punjabi[10],32.6,0.423,Indo-European,Indo-Aryan
+40,40.0,Eastern Punjabi,32.6,0.423,Indo-European,Indo-Aryan
 41,41.0,Sunda,32.4,0.421,Austronesian,Malayo-Polynesian
 42,42.0,Sudanese Arabic,31.9,0.414,Afroasiatic,Semitic
 43,43.0,Algerian Arabic,29.4,0.382,Afroasiatic,Semitic
